@@ -1,6 +1,7 @@
-# Hi, I'm Felipe Zas 
+# Hi, I'm Felipe Zas 👋
 
 **Cybersecurity Consultant · GRC & vCISO · Security Automation**
+
 Montevideo, Uruguay 🇺🇾
 
 I help regulated organizations, mainly in the financial sector, build and run their information security programs: governance, risk, compliance, third-party risk and vulnerability management. I also automate GRC work with Python and AI.
@@ -50,4 +51,4 @@ All projects use a **fictional organization and fictional data**. Nothing here c
 
 ---
 
-
+<sub>Projects and opinions are my own and do not represent current or former employers or clients.</sub>
