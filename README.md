@@ -1,4 +1,4 @@
-# Hi, I'm Felipe Zas 👋
+# Hi, I'm Felipe Zas 
 
 **Cybersecurity Consultant · GRC & vCISO · Security Automation**
 Montevideo, Uruguay 🇺🇾
@@ -50,4 +50,4 @@ All projects use a **fictional organization and fictional data**. Nothing here c
 
 ---
 
-<sub>Projects and opinions are my own and do not represent current or former employers or clients.</sub>
+
